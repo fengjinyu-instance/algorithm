@@ -2,11 +2,11 @@ package com.execute;
 
 /**
  * @author fengjinyu
- * @ClassName FourExe.java
+ * @ClassName FourSolution.java
  * @Description TODO
- * @createTime 2019年06月30日 17:02:00
+ * @createTime 2019年06月30日 17:26:00
  */
-public class FourExe {
+public class FourSolution {
     public static void main(String[] args) {
 
     }
